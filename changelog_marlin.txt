@@ -1,2 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: Google Pixel XL (marlin)
+Device maintainer: althafvly
 
 
+===== 19 May, 2021 =====
+
+- 
+- 
+- 
