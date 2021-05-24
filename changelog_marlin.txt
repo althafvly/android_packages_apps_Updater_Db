@@ -4,8 +4,60 @@ Device: Google Pixel XL (marlin)
 Device maintainer: althafvly
 
 
-===== 19 May, 2021 =====
+===== 24 May, 2021 =====
 
-- 
-- 
-- 
+PegasusOS Changes:
+
+- Based on AOSP
+
+- Added features from grapheneos, calyxos & lineageos
+
+- Support to change size of pattern  lockscreen
+
+- Added option to hide& protect apps in launcher
+
+- Fixed screenrecorder for lowend devices
+
+(Fixes lags while recording)
+
+- Toggle dots/error pattern visibility
+
+- Added caffeine tile, sync tile, headsup tile
+
+- Added unlinked ringtone and notification volumes toggle
+
+- Expandable volume panel
+
+- Change volume panel location (left/right)
+
+- Microg support
+
+- Aurorastore & f-droid included
+
+- Gcam 8.2 as default camera (need google photos to view from camera app)
+
+- Added lots of clock faces
+
+- Added fonts,accent colors
+
+- Default pixel accent and font
+
+- Added Pixel Soundpicker
+
+- Added Extreme battery saver
+
+- Sensors Off Tile
+
+- Firewall app to control datausage
+
+- Panic app from calyxos
+
+- Wireguard kernel support
+
+- Optimizations from protonaosp and aospa
+
+- Partial screenshot option
+
+I maybe missed some features.. try it out
+
+
