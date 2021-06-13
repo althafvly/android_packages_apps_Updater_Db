@@ -3,6 +3,10 @@ Build type: Weekly
 Device: Google Pixel XL (marlin)
 Device maintainer: althafvly
 
+===== 13 June, 2021 =====
+
+- Updated to june security patch
+- Updated F-droid
 
 ===== 24 May, 2021 =====
 
