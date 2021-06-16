@@ -10,24 +10,13 @@ In order for a device to be OTA compliant, there are a few things to know.
 {
   "response": [
     {
-        "maintainer": "Name (nickname)",
-        "oem": "OEM",
-        "device": "Device Name",
-        "filename": "PegasusOS-11.0-<date>-<device codename>.zip",
-        "download": "https://sourceforge.net/projects/pegasusandroid/files/<device codename>/<androidversion>/PegasusOS-11.0-<date>-<device codename>.zip/download",
-        "timestamp": 0000000000,
-        "md5": "abcdefg123456",
-        "size": 123456789,
-        "version": "<androidversion>",
-        "buildtype": "Testing/Alpha/Beta/Weekly/Monthly",
-        "forum": "https://forum link",
-        "gapps": "https://gapps link",
-        "firmware": "https://firmware link",
-        "modem": "https://modem link",
-        "bootloader": "https://bootloader link",
-        "recovery": "https://recovery link",
-        "paypal": "https://donation link",
-        "telegram": "https://telegram link"
+        "datetime": 1623675810,
+        "filename": "marlin-ota_update-2021.06.14.21.zip",
+        "id": "7a296f7e54b7406077b923ce59931b47",
+        "romtype": "user",
+        "size": 814462540,
+        "url": "https://sourceforge.net/projects/pegasusandroid/files/marlin/11/marlin-ota_update-2021.06.14.21.zip/download",
+        "version": "11"
     }
   ]
 }
@@ -36,7 +25,7 @@ In order for a device to be OTA compliant, there are a few things to know.
 ### 1.2 changelog.txt structure ### 
 ```
 Highlights & Device Specific Changes:
-Build type: Testing/Alpha/Beta/Weekly/Monthly
+Build type: user/userdebug/eng
 Device: Device name (<device codename>)
 Device maintainer: Name (nickname)
 Required firmware: add if any else remove this line
