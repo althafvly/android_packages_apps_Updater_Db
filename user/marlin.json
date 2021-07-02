@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1623675810,
-      "filename": "marlin-ota_update-2021.06.14.21.zip",
-      "id": "7a296f7e54b7406077b923ce59931b47",
+      "datetime": 1625200550,
+      "filename": "marlin-ota_update-2021.07.02.04.zip",
+      "id": "1899583fc49fc12db115f42d8d6a285c",
       "romtype": "user",
-      "size": 814462540,
-      "url": "https://sourceforge.net/projects/pegasusandroid/files/marlin/11/marlin-ota_update-2021.06.14.21.zip/download",
+      "size": 814528208,
+      "url": "https://sourceforge.net/projects/pegasusandroid/files/marlin/11/marlin-ota_update-2021.07.02.04.zip/download",
       "version": "11"
     }
   ]
