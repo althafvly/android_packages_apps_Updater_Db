@@ -4,9 +4,9 @@
       "datetime": 1625200550,
       "filename": "marlin-ota_update-2021.07.02.04.zip",
       "id": "1899583fc49fc12db115f42d8d6a285c",
-      "romtype": "user",
+      "romtype": "UNOFFICIAL",
       "size": 814528208,
-      "url": "https://sourceforge.net/projects/pegasusandroid/files/marlin/11/marlin-ota_update-2021.07.02.04.zip/download",
+      "url": "https://blahblah/download",
       "version": "11"
     }
   ]
